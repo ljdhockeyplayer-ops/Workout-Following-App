@@ -1,0 +1,9 @@
+{
+  "name": "Workout Rotation",
+  "short_name": "Workouts",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "description": "A simple six-workout rotation tracker."
+}
